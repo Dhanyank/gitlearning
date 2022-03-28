@@ -1,1 +1,4 @@
-git init=>to initialise git
+git init =>to initialise git
+git add -A =>adding files to staging media
+git commit -m"ur message"=>adding files to local repo
+git status =>listing all untracked files
